@@ -23,7 +23,6 @@ ACTION
 ▸ VALIDATION: Cross-checked every SQL output against independent Excel PivotTables before publishing to the dashboard.
 
 RESULT
-
 ▸ 📊 Utilities (3,609 MT) and Energy (3,432 MT) sectors dominate total emissions, with Gazprom (718 MT) the single largest emitter — nearly 2x the next-highest company.
 ▸ 🏭 Utilities and Materials carry the highest emissions intensity per revenue dollar, while Financials and Health Care are ~500x cleaner per dollar — a clear investment-risk signal.
 ▸ 🌍 76% of companies are third-party verified, and 89% report a net-zero target — but 232 of those targets sit at 2050 versus only 89 at 2030, exposing a "distant commitment" pattern behind the headline number.
